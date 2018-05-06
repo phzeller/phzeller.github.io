@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Daktilo
 description: >
@@ -26,4 +27,7 @@ exclude: ["README.md", "README.html"]
 
 # Build settings
 highlighter: null
+=======
+name: Hank Quinlan, Horrible Cop
+>>>>>>> e9790cd5e0e91a4e7f4373a0283f5e499a763f8c
 markdown: kramdown
